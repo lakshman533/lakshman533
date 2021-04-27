@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lakshman533
+- 👀 I’m interested in Data Science and Machine Learning
+- 🌱 I’m currently learning about how a data scientist work through Udacity's Data Scientist Nandegree
+- 💞️ I’m looking forword to get into a Data scientist role
+- 📫 Please contact me through **Lakshmanraj23@gmail.com**
