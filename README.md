@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Lakshman Raj
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning about how a data scientist work through Udacity's Data Scientist Nandegree and also working as an Asst.System Engineer in TCS.
-- 💞️ I’m looking forword to get into a Data scientist role
+- 🌱 I’m currently working as an Business Analyst II at MiQ and also learning alot about data science and machine learning parallely.
 - 📫 Please contact me through **Lakshmanraj23@gmail.com**
