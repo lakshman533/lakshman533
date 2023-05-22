@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Lakshman Raj
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently working as an Analyst II at MiQ and also learning alot about data science and machine learning parallely.
+- 🌱 I’m currently working as an Senior Analyst at MiQ and also learning alot about data science and machine learning parallely.
 - 📫 Please contact me through **Lakshmanraj23@gmail.com**
